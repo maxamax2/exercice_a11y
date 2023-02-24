@@ -31,25 +31,21 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+Pour ce qui est de la page web des chaussures junior du site de Sail, les textes alternatifs sont représentatifs des images. Pouvons-nous faire mieux ? Je ne le sais pas puisque je ne m'y connais pas assez en accessibilité.
+[capture-écran](images/1-textes-alternatifs/1-2/sail.png)
+
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+Les textes alternatifs aux images de la page amazon semblent assez complètes. Toute la description de l'image se retrouve dans le texte alternatif.
+[capture-écran](images/1-textes-alternatifs/1-2/amazon.png)
+
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+Pour le site du soleil, j'ai l'impression que les textes alternatifs sont courts et assez peu explicatifs.
+[capture-écran](images/1-textes-alternatifs/1-2/soleil1.png)
+[capture-écran](images/1-textes-alternatifs/1-2/soleil2.png)
+
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+Il n'y a pas d'alt aux images dans le site, ce qui est problématique.
+[capture-écran](images/1-textes-alternatifs/1-2/rad.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
