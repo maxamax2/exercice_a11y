@@ -59,9 +59,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/webquebec.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/webquebec2.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/webquebec3.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
@@ -78,9 +78,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+Je pense que la table des matières du document est respectée, sauf peut-être pour le dernier h2 (Help improve this page), il n'y a pas de lien avec le reste de l'article.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -88,9 +86,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+Il n'y a pas de H1 présent pour présenté le sujet principal de la page.
 
 
 #### 3.2 S'exercer à bien structurer
